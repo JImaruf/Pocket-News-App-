@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pocket News Paper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="countrylist">
+
+
+        <item>us</item>
+        <item>in</item>
+        <item>bd</item>
+        <item>rs</item>
+        <item>ru</item>
+        <item>cn</item>
+
+
+    </string-array>
+</resources>
